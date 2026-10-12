@@ -180,6 +180,17 @@
         "https://sports.sina.com.cn/basketball/nba/2021-06-20/doc-ikqcfnca2141309.shtml"
       ],
       "evidence_scope": "媒体记录历史事件；鞋码报道不证明反事实结果"
+    },
+    {
+      "aliases": [
+        "杜老四",
+        "老四"
+      ],
+      "meaning_zh": "当前聊天可识别为排座次或贡献排名的挑衅，不据此指定某个未经核验的起源。",
+      "possible_intent": "调侃、挑衅、问来源，依整句区别。",
+      "response_guidance": "普通玩梗直接接排名与认不认的话头；用户问出处才查，不默认去查历史地位或勇士队内顺序。",
+      "sources": [],
+      "evidence_scope": "用户提供的使用实例与语境判断；不是已确认梗起源或KD原话。"
     }
   ]
 }
