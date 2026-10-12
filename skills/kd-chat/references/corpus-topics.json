@@ -1,0 +1,359 @@
+{
+  "purpose": "中文话题到英文原帖的检索入口；不判断用户态度，也不输出固定答案。",
+  "topics": [
+    {
+      "topic": "技术与战术",
+      "chinese_cues": [
+        "中投",
+        "中距离",
+        "单打",
+        "包夹",
+        "战术",
+        "出手",
+        "诱饵",
+        "球权"
+      ],
+      "english_terms": [
+        "midrange",
+        "double team",
+        "decoy",
+        "game plan",
+        "coach calls",
+        "shot"
+      ],
+      "reviewed_ids": [
+        "1177304764813651970",
+        "1181328188099764224",
+        "1181350755598553088"
+      ]
+    },
+    {
+      "topic": "数据与改口",
+      "chinese_cues": [
+        "数据",
+        "效率",
+        "统计",
+        "承认错误",
+        "眼睛"
+      ],
+      "english_terms": [
+        "analytics",
+        "numbers",
+        "stats",
+        "eye test"
+      ],
+      "reviewed_ids": [
+        "1177304764813651970",
+        "1177360894155776000",
+        "1184206684010569728"
+      ]
+    },
+    {
+      "topic": "队友关系",
+      "chinese_cues": [
+        "队友",
+        "最喜欢队友",
+        "二当家",
+        "球队老二"
+      ],
+      "english_terms": [
+        "teammate",
+        "sibling",
+        "team"
+      ],
+      "reviewed_ids": [
+        "1177361134908846081"
+      ]
+    },
+    {
+      "topic": "早年的第二名",
+      "chinese_cues": [
+        "总是第二",
+        "老二",
+        "榜眼",
+        "受够第二",
+        "一直第二"
+      ],
+      "english_terms": [
+        "second-best",
+        "second best",
+        "second pick",
+        "tired of being second"
+      ],
+      "reviewed_ids": []
+    },
+    {
+      "topic": "荣誉与球员比较",
+      "chinese_cues": [
+        "詹姆斯",
+        "科比",
+        "纳什",
+        "MVP",
+        "排名",
+        "历史地位"
+      ],
+      "english_terms": [
+        "lebron",
+        "kobe",
+        "nash",
+        "mvp",
+        "legacy"
+      ],
+      "reviewed_ids": [
+        "1169244790132633601",
+        "1169245425217355776"
+      ]
+    },
+    {
+      "topic": "感谢与鼓励",
+      "chinese_cues": [
+        "支持",
+        "谢谢",
+        "毕业",
+        "鼓励",
+        "喜欢你"
+      ],
+      "english_terms": [
+        "thank",
+        "appreciate",
+        "proud",
+        "support"
+      ],
+      "reviewed_ids": [
+        "1260219187273691138",
+        "1370809480745717767",
+        "2022384344594260225",
+        "1760490517953937601",
+        "1928859386245689847"
+      ]
+    },
+    {
+      "topic": "怀旧与家乡",
+      "chinese_cues": [
+        "记得",
+        "怀念",
+        "小时候",
+        "球馆",
+        "家乡"
+      ],
+      "english_terms": [
+        "memories",
+        "remember",
+        "miss those days",
+        "silver hill"
+      ],
+      "reviewed_ids": [
+        "1315782336680607745",
+        "1171922334908698624"
+      ]
+    },
+    {
+      "topic": "道歉与误读",
+      "chinese_cues": [
+        "误会",
+        "看错",
+        "道歉",
+        "认错"
+      ],
+      "english_terms": [
+        "my bad",
+        "apolog",
+        "delete",
+        "misread"
+      ],
+      "reviewed_ids": [
+        "1186081140018417669",
+        "1956138447523262818",
+        "1956487159546073530"
+      ]
+    },
+    {
+      "topic": "离队争议",
+      "chinese_cues": [
+        "勇士",
+        "雷霆",
+        "投敌",
+        "离队",
+        "换队"
+      ],
+      "english_terms": [
+        "warriors",
+        "okc",
+        "decision",
+        "championship"
+      ],
+      "reviewed_ids": [
+        "1719419812714283327"
+      ]
+    },
+    {
+      "topic": "社媒日常",
+      "chinese_cues": [
+        "推特",
+        "上网",
+        "回复网友",
+        "别回",
+        "小号",
+        "回网友",
+        "敏感",
+        "破防",
+        "玻璃心"
+      ],
+      "english_terms": [
+        "twitter",
+        "troll",
+        "burner",
+        "internet"
+      ],
+      "reviewed_ids": [
+        "1372692163742605318",
+        "1747289924863475721",
+        "1958587609846042982",
+        "1941929722776260799"
+      ]
+    },
+    {
+      "topic": "球迷参与与争论转折",
+      "chinese_cues": [
+        "球迷",
+        "球队是我的",
+        "和解",
+        "别当真",
+        "开玩笑"
+      ],
+      "english_terms": [
+        "fans",
+        "fanbase",
+        "joke",
+        "product"
+      ],
+      "reviewed_ids": [
+        "1645815185616285696",
+        "1984262014974505093",
+        "1984304478279913931",
+        "1984310450620661975"
+      ]
+    },
+    {
+      "topic": "普通日常",
+      "chinese_cues": [
+        "日常",
+        "洗碗",
+        "起床",
+        "音乐",
+        "橄榄球"
+      ],
+      "english_terms": [
+        "music",
+        "maggie",
+        "rodgers",
+        "mahomes"
+      ],
+      "reviewed_ids": [
+        "1180876648436113410",
+        "1919751967989006817",
+        "1959135418911518944"
+      ]
+    },
+    {
+      "topic": "博彩",
+      "chinese_cues": [
+        "赌球",
+        "下注",
+        "输钱",
+        "找工作"
+      ],
+      "english_terms": [
+        "gambl",
+        "bet",
+        "job"
+      ],
+      "reviewed_ids": [
+        "1180189551735779329"
+      ]
+    },
+    {
+      "topic": "媒体与揣测动机",
+      "chinese_cues": [
+        "媒体",
+        "记者",
+        "讨厌",
+        "更衣室",
+        "欧文"
+      ],
+      "english_terms": [
+        "media",
+        "made this up",
+        "fan fiction",
+        "kyrie"
+      ],
+      "reviewed_ids": [
+        "1416143722820079619",
+        "1940856545660883407",
+        "1171913535133085696"
+      ]
+    },
+    {
+      "topic": "申京与场上沟通",
+      "chinese_cues": [
+        "申京",
+        "申精",
+        "Sengun",
+        "Alpi",
+        "嫌弃他"
+      ],
+      "english_terms": [
+        "sengun",
+        "alpi",
+        "28",
+        "teammate"
+      ],
+      "reviewed_ids": [
+        "2022017447461892532",
+        "1983729837618688422",
+        "1956476773866393808"
+      ]
+    },
+    {
+      "topic": "选择与后悔",
+      "chinese_cues": [
+        "后悔",
+        "抱团",
+        "最艰难的路"
+      ],
+      "english_terms": [
+        "regret",
+        "decision",
+        "dream"
+      ],
+      "reviewed_ids": [
+        "1978539872928305427"
+      ]
+    },
+    {
+      "topic": "投篮具体建议",
+      "chinese_cues": [
+        "三分发力",
+        "投篮发力",
+        "接球",
+        "重心",
+        "掩护",
+        "三分",
+        "发力",
+        "费劲",
+        "投得远"
+      ],
+      "english_terms": [
+        "lower",
+        "dribble",
+        "pindown",
+        "flare"
+      ],
+      "reviewed_ids": [
+        "1932533990629781815",
+        "1932534123203309572",
+        "1921981217877926237"
+      ]
+    }
+  ]
+}

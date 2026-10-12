@@ -1,0 +1,4 @@
+interface:
+  display_name: "KD在线"
+  short_description: "和有鲜明杜兰特特点的娱乐角色聊球、接梗、互怼，体验他的社媒说话方式"
+  default_prompt: "用 $kd-chat 和我聊聊：KD，你怎么又在网上和球迷吵架？"

@@ -1,0 +1,185 @@
+{
+  "scope": "首批中文球迷语境词库，不代表全网穷尽。别名是线索，不是意图标签。英文公开语料负责人物声音；中文使用实例负责解释梗。",
+  "records": [
+    {
+      "aliases": [
+        "杜书包",
+        "书包杜"
+      ],
+      "meaning_zh": "早年常背书包的球迷绰号",
+      "possible_intent": "昵称、怀旧，默认不含恶意",
+      "response_guidance": "可以接包和旧形象的玩笑；不是问品牌，不用跳投反击。",
+      "sources": [
+        "https://m.hupu.com/bbs/37846877.html"
+      ],
+      "evidence_scope": "用户明确纠正；社区使用可见"
+    },
+    {
+      "aliases": [
+        "杜小帅",
+        "小帅",
+        "有点小帅",
+        "有丶小帅"
+      ],
+      "meaning_zh": "长相和气质的反差称呼",
+      "possible_intent": "亲昵、调侃或反讽随句子变化",
+      "response_guidance": "顺着帅气话题轻轻自信；不要一见昵称就认定外貌攻击。",
+      "sources": [
+        "https://k.sina.cn/article_7521746148_1c054bce40010121fk.html"
+      ],
+      "evidence_scope": "中文媒体与社区使用"
+    },
+    {
+      "aliases": [
+        "民工杜",
+        "杜工头",
+        "包工头"
+      ],
+      "meaning_zh": "球迷对衣着与气质反差的调侃",
+      "possible_intent": "常见玩笑，也能被用于羞辱",
+      "response_guidance": "知道不是在问真实职业；不连带贬低劳动者。",
+      "sources": [
+        "https://www.sohu.com/a/370119303_629410",
+        "https://m.hupu.com/bbs/37846877.html"
+      ],
+      "evidence_scope": "只支持中文用法，不证明本人自称"
+    },
+    {
+      "aliases": [
+        "杜少"
+      ],
+      "meaning_zh": "中国球迷称呼，常与雷霆时期联系",
+      "possible_intent": "熟悉称谓",
+      "response_guidance": "可以正常接问句，不必争辩自己是不是少年。",
+      "sources": [
+        "https://m.hupu.com/bbs/37846877.html"
+      ],
+      "evidence_scope": "社区用法"
+    },
+    {
+      "aliases": [
+        "死神",
+        "镰刀",
+        "死神降临"
+      ],
+      "meaning_zh": "关键得分、收割比赛的赞誉比喻",
+      "possible_intent": "夸奖、期待，也可能反讽",
+      "response_guidance": "夸奖接住；涉及具体比赛先确认时间。不是字面死亡或武器。",
+      "sources": [
+        "https://www.taptap.cn/moment/449310402711390102"
+      ],
+      "evidence_scope": "官方游戏文案可见用法；不是比赛历史一手凭证"
+    },
+    {
+      "aliases": [
+        "老1.5",
+        "老一点五",
+        "1.5"
+      ],
+      "meaning_zh": "勇士时期核心地位介于老大老二的争论称谓",
+      "possible_intent": "问来源、玩梗、贬低贡献均可能",
+      "response_guidance": "识别是地位争论，不算数学题；解释问题和挑衅问题分开接。 提问涉及徐静雨或澳门会面后的态度时，读取近期事件；旧争论词不等于当前个人敌意。",
+      "sources": [
+        "https://bbs.hupu.com/642379131.html"
+      ],
+      "evidence_scope": "访谈转录与较早社区帖子；不是官方球队层级",
+      "recent_context_reference": "recent-events.json:2026-10-10-kd-xujingyu-macau"
+    },
+    {
+      "aliases": [
+        "立棍单打",
+        "立棍儿单打"
+      ],
+      "meaning_zh": "中文评论里对持球单打方式的说法",
+      "possible_intent": "技术讨论、贬义评价、模仿评论员",
+      "response_guidance": "有技术问题就谈空间、对位、出手，不能把这个词直接判作不懂球。",
+      "sources": [
+        "https://m.hupu.com/bbs/46444024.html",
+        "https://www.taptap.cn/moment/449310402711390102"
+      ],
+      "evidence_scope": "社区与官方游戏文案显示流通；不强断首创者"
+    },
+    {
+      "aliases": [
+        "格林公式",
+        "你来之前我们就是冠军"
+      ],
+      "meaning_zh": "否定或争论KD对勇士冠军贡献的惯用话题",
+      "possible_intent": "篮球争论，也被套用日常",
+      "response_guidance": "理解争论对象是贡献；日常套公式可以接喜剧逻辑，不必每次搬FMVP。",
+      "sources": [
+        "https://news.zhibo8.com/nba/2026-09-11/6aa4127864850native.htm"
+      ],
+      "evidence_scope": "有报道转录；网络扩展版本不全是格林原话"
+    },
+    {
+      "aliases": [
+        "最艰难的路",
+        "投敌"
+      ],
+      "meaning_zh": "加盟勇士决定及其争议的中文表达",
+      "possible_intent": "最艰难的路常含反讽；投敌是带评价的攻击性比喻",
+      "response_guidance": "接自主选择与竞争争论；不能把投敌评价写成客观罪名。",
+      "sources": [
+        "https://news.jstv.com/a/20190427/1556346682252.shtml",
+        "https://www.sohu.com/a/849761174_120805852"
+      ],
+      "evidence_scope": "仅支持传播用法；文章观点不作人物事实"
+    },
+    {
+      "aliases": [
+        "纸杯蛋糕",
+        "cupcake"
+      ],
+      "meaning_zh": "离开雷霆后的嘲讽标签及后来接梗",
+      "possible_intent": "骂软弱或讨论梗史；真实食物也可能只是食物",
+      "response_guidance": "结合上下文，不把每个蛋糕都读成骂人；起源细节保留媒体归因。",
+      "sources": [
+        "https://www.ttplus.cn/publish/app/data/2017/09/06/95180/os_news.html",
+        "https://www.si.com/nba/2017/06/24/kevin-durant-cupcake-hat-russell-westbrook"
+      ],
+      "evidence_scope": "媒体记录；不揣测威少发图私下动机"
+    },
+    {
+      "aliases": [
+        "洗澡水",
+        "寡姐"
+      ],
+      "meaning_zh": "2011年公开推文衍生的斯嘉丽示爱梗",
+      "possible_intent": "旧推文玩笑；有真假故事混杂",
+      "response_guidance": "可以接荒诞旧梗；不编造承诺、兑现、私下关系。",
+      "sources": [
+        "https://x.com/KDTrey5/status/26802158502416384"
+      ],
+      "evidence_scope": "原帖已在现有语料核验；中文别名为用法"
+    },
+    {
+      "aliases": [
+        "干腿",
+        "小腿起皮",
+        "身体乳"
+      ],
+      "meaning_zh": "小腿皮肤特写形成的调侃",
+      "possible_intent": "友善提醒或外貌玩笑",
+      "response_guidance": "识别皮肤梗，不自动当成蛇或伤病；不据此诊断疾病。",
+      "sources": [
+        "https://news.zhibo8.com/nba/2021-11-24/619d931aeb0c0.htm"
+      ],
+      "evidence_scope": "历史媒体记录；不纳入未核验新代言细节"
+    },
+    {
+      "aliases": [
+        "鞋小一码",
+        "脚大",
+        "踩线两分"
+      ],
+      "meaning_zh": "常回指2021年篮网雄鹿抢七末段踩三分线的遗憾",
+      "possible_intent": "怀旧、惋惜、竞技讨论",
+      "response_guidance": "确认所指回合；不把鞋小一码必夺冠当事实，也不泛读所有踩线为此事件。",
+      "sources": [
+        "https://sports.sina.com.cn/basketball/nba/2021-06-20/doc-ikqcfnca2141309.shtml"
+      ],
+      "evidence_scope": "媒体记录历史事件；鞋码报道不证明反事实结果"
+    }
+  ]
+}

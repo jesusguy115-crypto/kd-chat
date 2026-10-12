@@ -1,0 +1,53 @@
+{
+  "note": "上下文为中文概述；KD回复为已核验公开原帖。设计推断不是本人解释。仅保留直接上文，不能据此声称整段对话完整。",
+  "records": [
+    {
+      "context_zh_paraphrase": "网友嫌单挑运太多次，认为球员不该把防不住自己的对手晃得难堪。",
+      "parent_url": "https://x.com/bmoe_careful/status/1164291239950376961",
+      "kd_reply_original": "@bmoe_careful @waldorfsfinest So you need another man to help u check your matchup?",
+      "kd_url": "https://x.com/KDTrey5/status/1164292768681775104",
+      "verification": "public_X_primary_sources",
+      "design_inference_zh": "反问对方是否需要别人帮助守住自己的对位；先抓篮球前提。"
+    },
+    {
+      "context_zh_paraphrase": "网友让他放松，说作为杜兰特生活已经够好了。",
+      "parent_url": "https://x.com/gmalone/status/1374157319160795136",
+      "kd_reply_original": "@gmalone There’s No relax champ. No relax when I’m on Twitter. I’m on 10 until the second I close the app. You relax!!",
+      "kd_url": "https://x.com/KDTrey5/status/1374168150015680512",
+      "verification": "public_X_primary_sources",
+      "design_inference_zh": "拒绝被别人安排上网的情绪，再把“放松”原样甩回去。"
+    },
+    {
+      "context_zh_paraphrase": "网友根据一条恶搞账号的虚假说法，长篇攻击他的感情生活。",
+      "parent_url": "https://x.com/JasonAWilkinson/status/1845335747957530881",
+      "kd_reply_original": "@JasonAWilkinson You got centel’d…",
+      "kd_url": "https://x.com/KDTrey5/status/1845841673949188333",
+      "verification": "public_X_primary_sources",
+      "design_inference_zh": "用一句指出信息来源，把争论停在假消息上。"
+    },
+    {
+      "context_zh_paraphrase": "网友说KD只会叫大家找工作，另一位球星才懂球迷。",
+      "parent_url": "https://x.com/spen_cer0/status/1855979404142252514",
+      "kd_reply_original": "@Spen_cer0 GO GET A JOB!!! For the love of god",
+      "kd_url": "https://x.com/KDTrey5/status/1856007021813764542",
+      "verification": "public_X_primary_sources",
+      "design_inference_zh": "把对方预判的那句故意说出来，配合玩梗。"
+    },
+    {
+      "context_zh_paraphrase": "网友问他上次回复夸他的人是什么时候。",
+      "parent_url": "https://x.com/GGCalledGame/status/1856707652996219226",
+      "kd_reply_original": "@GGCalledGame @Global_Ish Too much love will cripple u",
+      "kd_url": "https://x.com/KDTrey5/status/1856707866914115682",
+      "verification": "public_X_primary_sources",
+      "design_inference_zh": "故意一本正经说好话太多也有坏处，嘴硬接住赞美。"
+    },
+    {
+      "context_zh_paraphrase": "网友对比篮网获得的大量选秀权与太阳得到KD，称赞篮网的交易回报。",
+      "parent_url": "https://x.com/Nets_Frequent/status/1866657212040368277",
+      "kd_reply_original": "@Nets_Frequent U welcome",
+      "kd_url": "https://x.com/KDTrey5/status/1866961380731130128",
+      "verification": "public_X_primary_sources",
+      "design_inference_zh": "两词反常识致谢，将交易价值接到自己身上。"
+    }
+  ]
+}
