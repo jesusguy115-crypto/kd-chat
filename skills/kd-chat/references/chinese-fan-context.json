@@ -1,5 +1,5 @@
 {
-  "scope": "首批中文球迷语境词库，不代表全网穷尽。别名是线索，不是意图标签。英文公开语料负责人物声音；中文使用实例负责解释梗。",
+  "scope": "20组中文语境线索，不穷尽全网；历史、通用网络词与当前聊天用法明确分开。来源证明流通或事件，不自动证明首创、动机和本人喜好。",
   "records": [
     {
       "aliases": [
@@ -191,6 +191,100 @@
       "response_guidance": "普通玩梗直接接排名与认不认的话头；用户问出处才查，不默认去查历史地位或勇士队内顺序。",
       "sources": [],
       "evidence_scope": "用户提供的使用实例与语境判断；不是已确认梗起源或KD原话。"
+    },
+    {
+      "aliases": [
+        "阿杜",
+        "杜神"
+      ],
+      "meaning_zh": "中文昵称，可亲昵或赞誉",
+      "possible_intent": "由整句和上下文辨认，不从关键词推断唯一态度。",
+      "response_guidance": "按整句话接，不一见夸奖就硬怼。",
+      "sources": [
+        "https://m.hupu.com/bbs/37846877.html",
+        "https://www.qiumiwu.com/news/398853286207"
+      ],
+      "checked_as_of": "2026-10-12",
+      "evidence_scope": "媒体与社区用法，不宣称本人采用这些中文称呼。",
+      "source_read_scope": "中文社区或媒体搜索索引片段；只支持这里标注的用法，不声称整页细读。"
+    },
+    {
+      "aliases": [
+        "雷霆三少",
+        "三少"
+      ],
+      "meaning_zh": "杜兰特、威斯布鲁克、哈登早年雷霆组合的怀旧称呼",
+      "possible_intent": "由整句和上下文辨认，不从关键词推断唯一态度。",
+      "response_guidance": "聊当年的组合和球；不当成三人现在同队或私下仍每天联系。",
+      "sources": [
+        "https://xmwb.xinmin.cn/resfile/2018-01-06/A12/A12.pdf"
+      ],
+      "checked_as_of": "2026-10-12",
+      "evidence_scope": "报纸历史叙述，只支持当时组合，不推断今天关系。",
+      "source_read_scope": "中文社区或媒体搜索索引片段；只支持这里标注的用法，不声称整页细读。"
+    },
+    {
+      "aliases": [
+        "狼蛛",
+        "Durantula"
+      ],
+      "meaning_zh": "媒体与球迷使用的身材、打法意象昵称",
+      "possible_intent": "由整句和上下文辨认，不从关键词推断唯一态度。",
+      "response_guidance": "可接长手长脚和出手话题；不误读成真实动物或保证他喜欢这个外号。",
+      "sources": [
+        "https://www.qiumiwu.com/news/398853286207"
+      ],
+      "checked_as_of": "2026-10-12",
+      "evidence_scope": "媒体昵称清单；不采纳文中未经一手支持的喜好归因。",
+      "source_read_scope": "中文社区或媒体搜索索引片段；只支持这里标注的用法，不声称整页细读。"
+    },
+    {
+      "aliases": [
+        "雷神",
+        "雷震子"
+      ],
+      "meaning_zh": "雷霆时期的雷电意象称谓",
+      "possible_intent": "由整句和上下文辨认，不从关键词推断唯一态度。",
+      "response_guidance": "可怀旧逗趣；不把所有称谓首创与本人认可当已核验事实。",
+      "sources": [
+        "https://www.qiumiwu.com/news/398853286207"
+      ],
+      "checked_as_of": "2026-10-12",
+      "evidence_scope": "中文媒体使用，起源和本人喜欢之类说法未单独确认。",
+      "source_read_scope": "中文社区或媒体搜索索引片段；只支持这里标注的用法，不声称整页细读。"
+    },
+    {
+      "aliases": [
+        "高强度冲浪",
+        "忘切号",
+        "切错号",
+        "小号互怼"
+      ],
+      "meaning_zh": "中文球迷对上网、2017年切号事件与小号文化的玩笑",
+      "possible_intent": "由整句和上下文辨认，不从关键词推断唯一态度。",
+      "response_guidance": "玩梗可以接上网话头；不当场冒认未知账号、编造私人群聊或拿传播截图当本人自白。",
+      "sources": [
+        "https://k.sina.cn/article_7521746148_1c054bce40010121fk.html"
+      ],
+      "checked_as_of": "2026-10-12",
+      "evidence_scope": "媒体记载高强度冲浪与小号事件；部分表达是语境扩展，不强断首创。",
+      "source_read_scope": "中文社区或媒体搜索索引片段；只支持这里标注的用法，不声称整页细读。"
+    },
+    {
+      "aliases": [
+        "破防",
+        "玻璃心",
+        "敏感"
+      ],
+      "meaning_zh": "通用中文评价词，在此常质疑他太在意评论",
+      "possible_intent": "由整句和上下文辨认，不从关键词推断唯一态度。",
+      "response_guidance": "针对该句评价回话，也可以笑着让一步；不认为每次回应都失控，或每次都在演戏。",
+      "sources": [
+        "https://x.com/KDTrey5/status/1956487159546073530"
+      ],
+      "checked_as_of": "2026-10-12",
+      "evidence_scope": "通用中文语用与原帖行为对照，非KD专属梗起源。",
+      "source_read_scope": "已复读公开原帖与中文通用语境"
     }
   ]
 }
